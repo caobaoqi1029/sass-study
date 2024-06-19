@@ -11,7 +11,7 @@ export default defineConfig({
     },
     themeConfig: {
         head: [["link", {rel: "icon", href: "/docs-template/mcdd.jpg"}]],
-        outline: [2, 4],
+        outline: [1, 4],
         lastUpdated: true,
         // https://vitepress.dev/reference/default-theme-config
         nav: [
